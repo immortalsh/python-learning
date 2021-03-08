@@ -10,6 +10,6 @@ for alien_color in alien_colors:
     if alien_color == "green":
         print("Success,you got 5 points")
     elif alien_color == "red":
-        print("you failed")
+        print()
     elif alien_color == "yellow":
         print("you failed")
