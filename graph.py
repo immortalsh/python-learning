@@ -19,6 +19,8 @@ line=Line(Point(20,30),Point(180,165))
 line.draw(win)
 oval=Oval(Point(20,120),Point(180,199))
 oval.draw(win)
-win.close()
+win.mainloop()
+
+
 
              
