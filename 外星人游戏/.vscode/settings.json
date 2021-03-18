@@ -1,3 +1,8 @@
 {
-    "python.pythonPath": "D:\\anaconda3\\python.exe"
+    "python.pythonPath": "D:\\anaconda3\\python.exe",
+    "python.autoComplete.extraPaths": [],
+    "python.linting.pylintArgs": [
+        "----extension-pkg-whitelist=1xml"
+    ],
+    "python.autoComplete.addBrackets": true
 }
